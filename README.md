@@ -5,7 +5,7 @@ NextHire
 
 A full-stack MERN Job Portal connecting recruiters and job seekers.
 
-## Features
+Features
 
 - JWT Authentication
 - Role Based Login
@@ -18,7 +18,7 @@ A full-stack MERN Job Portal connecting recruiters and job seekers.
 - Search & Filter
 - Responsive UI
 
-## Tech Stack
+Tech Stack
 
 - React
 - Node.js
